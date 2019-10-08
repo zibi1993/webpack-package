@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/zibi1993/webpack-package#readme",
   "devDependencies": {
+    "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
     "webpack": "^3.12.0",
     "webpack-dev-server": "^3.8.2"
   }
